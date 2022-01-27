@@ -1,0 +1,1 @@
+{"name":"Local: Movie","url":"e:\\c++ programs\\Test\\MovieFestival II\\Movie.cpp","tests":[{"id":1642835475034,"input":"5 2\n1 5\n8 10\n3 6\n2 5\n6 9","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++ programs\\Test\\MovieFestival II\\Movie.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: maximum subarray","url":"e:\\c++ programs\\Test\\Maximum subarray II\\maximum subarray.cpp","tests":[{"id":1642861878879,"input":"8 1 2\n-1 3 -2 5 3 -5 2 2","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++ programs\\Test\\Maximum subarray II\\maximum subarray.cpp","group":"local","local":true}

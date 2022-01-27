@@ -1,0 +1,1 @@
+{"name":"Local: sliding1","url":"e:\\c++ programs\\Test\\slidingMedianHard\\sliding1.cpp","tests":[{"id":1642781993889,"input":"8 3\n2 4 3 5 8 1 2 1","output":"3 4 5 5 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\c++ programs\\Test\\slidingMedianHard\\sliding1.cpp","group":"local","local":true}
